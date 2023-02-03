@@ -2,5 +2,6 @@
 
 ## Changes from local reporsitory
 
-
 ## Changes from remote repository
+
+## Changes from Iaroslav Omelianeko
